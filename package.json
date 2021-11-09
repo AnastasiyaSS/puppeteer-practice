@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "puppeteer": "^11.0.0"
+  },
+  "name": "puppeteer-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node asos.js"
+  },
+  "author": "AnastasiyaSS <zamara.2901@gmail.com>",
+  "license": "MIT",
+  "type": "module"
+}
